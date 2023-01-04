@@ -82,4 +82,4 @@ their profile on a third platform (Stack Overflow, Twitter)
 
 GitHub Repo URL: https://github.com/Josh236061/personal-portfolio-react/
 
-GitHub Pages Published URL: https://josh236061.github.io/
+GitHub Pages Published URL: https://josh236061.github.io/personal-portfolio-react/
