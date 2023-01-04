@@ -38,7 +38,7 @@ function Portfolio() {
               title="Clothingurusss"
               description="Welcome to Clothing Gurusss! Here, we post the best clothing products from all our valued vendor members!"
               ghLink="https://github.com/Josh236061/clothingurusss"
-              demoLink="https://project2clothingurusss.herokuapp.com/login"
+              demoLink="https://frozen-ocean-07710.herokuapp.com/"
             />
           </Col>
 
