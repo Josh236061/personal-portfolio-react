@@ -37,7 +37,7 @@ function Resume() {
             <Card.Body>
 
                 <p style={{ textAlign: "justify" }}>
-                  Front-end proficiencies
+                  Front-End Languages
                 </p>
                 <ul>
                   <li className="about-activity">
@@ -47,34 +47,31 @@ function Resume() {
                     <ImPointRight /> CSS
                   </li>
                   <li className="about-activity">
-                    <ImPointRight /> Vue JS
+                    <ImPointRight /> JavaScript
+                  </li>
+                  <li className="about-activity">
+                    <ImPointRight /> Bootstrap | jQuery
                   </li>
                   <li className="about-activity">
                     <ImPointRight /> React JS
                   </li>
-                  <li className="about-activity">
-                    <ImPointRight /> Angular JS
-                  </li>
                 </ul>
               <hr/>
               <p style={{ textAlign: "justify" }}>
-                Backend proficiencies
+                Back-End Languages
               </p>
               <ul>
                 <li className="about-activity">
                   <ImPointRight /> Express JS
                 </li>
                 <li className="about-activity">
-                  <ImPointRight /> Python (Django)
-                </li>
-                <li className="about-activity">
                   <ImPointRight /> Node JS
                 </li>
                 <li className="about-activity">
-                  <ImPointRight /> PyTorch
+                  <ImPointRight /> MySQL
                 </li>
                 <li className="about-activity">
-                  <ImPointRight /> Go
+                  <ImPointRight /> MongoDB
                 </li>
               </ul>
 
